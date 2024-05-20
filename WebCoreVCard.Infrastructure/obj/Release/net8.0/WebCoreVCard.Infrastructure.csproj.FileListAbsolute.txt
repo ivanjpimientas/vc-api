@@ -1,0 +1,17 @@
+C:\Net Projects\APIs\WebCoreVCard.Solution\WebCoreVCard.Infrastructure\bin\Release\net8.0\WebCoreVCard.Infrastructure.deps.json
+C:\Net Projects\APIs\WebCoreVCard.Solution\WebCoreVCard.Infrastructure\bin\Release\net8.0\WebCoreVCard.Infrastructure.runtimeconfig.json
+C:\Net Projects\APIs\WebCoreVCard.Solution\WebCoreVCard.Infrastructure\bin\Release\net8.0\WebCoreVCard.Infrastructure.dll
+C:\Net Projects\APIs\WebCoreVCard.Solution\WebCoreVCard.Infrastructure\bin\Release\net8.0\WebCoreVCard.Infrastructure.pdb
+C:\Net Projects\APIs\WebCoreVCard.Solution\WebCoreVCard.Infrastructure\bin\Release\net8.0\WebCoreVCard.Domain.dll
+C:\Net Projects\APIs\WebCoreVCard.Solution\WebCoreVCard.Infrastructure\bin\Release\net8.0\WebCoreVCard.Domain.pdb
+C:\Net Projects\APIs\WebCoreVCard.Solution\WebCoreVCard.Infrastructure\obj\Release\net8.0\WebCoreVCard.Infrastructure.csproj.AssemblyReference.cache
+C:\Net Projects\APIs\WebCoreVCard.Solution\WebCoreVCard.Infrastructure\obj\Release\net8.0\WebCoreVCard.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Net Projects\APIs\WebCoreVCard.Solution\WebCoreVCard.Infrastructure\obj\Release\net8.0\WebCoreVCard.Infrastructure.AssemblyInfoInputs.cache
+C:\Net Projects\APIs\WebCoreVCard.Solution\WebCoreVCard.Infrastructure\obj\Release\net8.0\WebCoreVCard.Infrastructure.AssemblyInfo.cs
+C:\Net Projects\APIs\WebCoreVCard.Solution\WebCoreVCard.Infrastructure\obj\Release\net8.0\WebCoreVCard.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Net Projects\APIs\WebCoreVCard.Solution\WebCoreVCard.Infrastructure\obj\Release\net8.0\WebCoreV.657976C1.Up2Date
+C:\Net Projects\APIs\WebCoreVCard.Solution\WebCoreVCard.Infrastructure\obj\Release\net8.0\WebCoreVCard.Infrastructure.dll
+C:\Net Projects\APIs\WebCoreVCard.Solution\WebCoreVCard.Infrastructure\obj\Release\net8.0\refint\WebCoreVCard.Infrastructure.dll
+C:\Net Projects\APIs\WebCoreVCard.Solution\WebCoreVCard.Infrastructure\obj\Release\net8.0\WebCoreVCard.Infrastructure.pdb
+C:\Net Projects\APIs\WebCoreVCard.Solution\WebCoreVCard.Infrastructure\obj\Release\net8.0\WebCoreVCard.Infrastructure.genruntimeconfig.cache
+C:\Net Projects\APIs\WebCoreVCard.Solution\WebCoreVCard.Infrastructure\obj\Release\net8.0\ref\WebCoreVCard.Infrastructure.dll

@@ -1,0 +1,11 @@
+C:\Net Projects\APIs\WebCoreVCard.Solution\WebCoreVCard.Domain\bin\Debug\net8.0\WebCoreVCard.Domain.deps.json
+C:\Net Projects\APIs\WebCoreVCard.Solution\WebCoreVCard.Domain\bin\Debug\net8.0\WebCoreVCard.Domain.dll
+C:\Net Projects\APIs\WebCoreVCard.Solution\WebCoreVCard.Domain\bin\Debug\net8.0\WebCoreVCard.Domain.pdb
+C:\Net Projects\APIs\WebCoreVCard.Solution\WebCoreVCard.Domain\obj\Debug\net8.0\WebCoreVCard.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Net Projects\APIs\WebCoreVCard.Solution\WebCoreVCard.Domain\obj\Debug\net8.0\WebCoreVCard.Domain.AssemblyInfoInputs.cache
+C:\Net Projects\APIs\WebCoreVCard.Solution\WebCoreVCard.Domain\obj\Debug\net8.0\WebCoreVCard.Domain.AssemblyInfo.cs
+C:\Net Projects\APIs\WebCoreVCard.Solution\WebCoreVCard.Domain\obj\Debug\net8.0\WebCoreVCard.Domain.csproj.CoreCompileInputs.cache
+C:\Net Projects\APIs\WebCoreVCard.Solution\WebCoreVCard.Domain\obj\Debug\net8.0\WebCoreVCard.Domain.dll
+C:\Net Projects\APIs\WebCoreVCard.Solution\WebCoreVCard.Domain\obj\Debug\net8.0\refint\WebCoreVCard.Domain.dll
+C:\Net Projects\APIs\WebCoreVCard.Solution\WebCoreVCard.Domain\obj\Debug\net8.0\WebCoreVCard.Domain.pdb
+C:\Net Projects\APIs\WebCoreVCard.Solution\WebCoreVCard.Domain\obj\Debug\net8.0\ref\WebCoreVCard.Domain.dll
